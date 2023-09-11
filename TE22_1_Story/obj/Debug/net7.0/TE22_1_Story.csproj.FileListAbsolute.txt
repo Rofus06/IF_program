@@ -1,0 +1,14 @@
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\bin\Debug\net7.0\TE22_1_Story.exe
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\bin\Debug\net7.0\TE22_1_Story.deps.json
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\bin\Debug\net7.0\TE22_1_Story.runtimeconfig.json
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\bin\Debug\net7.0\TE22_1_Story.dll
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\bin\Debug\net7.0\TE22_1_Story.pdb
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\obj\Debug\net7.0\TE22_1_Story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\obj\Debug\net7.0\TE22_1_Story.AssemblyInfoInputs.cache
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\obj\Debug\net7.0\TE22_1_Story.AssemblyInfo.cs
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\obj\Debug\net7.0\TE22_1_Story.csproj.CoreCompileInputs.cache
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\obj\Debug\net7.0\TE22_1_Story.dll
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\obj\Debug\net7.0\refint\TE22_1_Story.dll
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\obj\Debug\net7.0\TE22_1_Story.pdb
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\obj\Debug\net7.0\TE22_1_Story.genruntimeconfig.cache
+C:\Users\filip.scherlund\Desktop\Test visual\IF_program\TE22_1_Story\obj\Debug\net7.0\ref\TE22_1_Story.dll
